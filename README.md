@@ -14,7 +14,7 @@ Para compilarlo con Mono no debería haber ningún problema, pero no lo he proba
 El programa busca en el directorio /data ficheros con el nombre del símbolo terminado en .csv; por ejemplo optt.csv
 Actualizará los datos desde la última fecha almacenada o si el fichero está vacío se descargará los dos últimos años.
 
-Luego en el directorio /ods tengo las hojas de cálculo desde donde se importa el fichero .csv dentr de la carpeta data
+Luego en el directorio /ods tengo las hojas de cálculo desde donde se importa el fichero .csv dentro del directorio /data
 Para importar el fichero .csv en la hoja de cálculo en Libre Office:
 	Pinchar en la casilla A1 (yo lo tengo en la carpeta linked_data)
 	Menu -> Sheet -> Link to External Data
