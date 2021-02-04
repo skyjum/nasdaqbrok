@@ -26,4 +26,4 @@ Con Excel habrá algo parecido. No tengo licencia así que no he podido intentar
 El formato .ods debería reconocerlo Excel por lo que debería funcionar el ejemplo.
 
 Los datos que se importan aparece la última fecha la primera, lo que no lo hace muy conveniente para los gráficos.
-En la carpeta "analisis" hago un offset para invertir el orden de las columnas.
+Dentro de la hoja de cálculo hago un offset para invertir el orden de las columnas.
